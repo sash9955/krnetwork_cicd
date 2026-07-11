@@ -1,0 +1,2 @@
+# krnetwork_cicd
+training
